@@ -59,7 +59,12 @@ main{
     text-align: center;
     font-size: 1em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+}
+.bienvenu{
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(40, 152, 196); /* Shadow with no border */
+    border-radius: 8px; /* Optional: adds rounded corners */
 }
 
 footer ul li a img{
