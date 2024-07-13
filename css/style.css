@@ -6,7 +6,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(40, 152, 196);
+    background-color: rgba(40, 152, 196);;
     color: #fff;
     
 }
@@ -53,7 +53,7 @@ main{
     font-weight: bold;
     font-size: 2em;
     color: white;
-    background-color:rgb(40, 152, 196) ;
+    background-color:rgba(40, 152, 196); ;
 }
 .textedebienvenu{
     text-align: center;
@@ -77,10 +77,9 @@ footer ul li a{
 }
 
 footer{
-    background-color: rgb(40, 152, 196);
+    
     justify-content: space-between;
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -170,6 +169,12 @@ body {
     background-color: #f8f9fa;
 }
 
+.container-footer {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
 .container {
     width: 80%;
     margin: 0 auto;
@@ -217,11 +222,4 @@ main {
 
 .contact-form button:hover {
     background-color: rgb(40, 152, 196);
-}
-footer {
-    background-color:  rgb(40, 152, 196);
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
 }
