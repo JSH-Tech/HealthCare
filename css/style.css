@@ -71,13 +71,6 @@ footer ul li a{
     padding: 0.5rem 1rem;
 }
 
-footer{
-    background-color: rgb(40, 152, 196);
-    justify-content: space-between;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
 
 footer ul{
     display: flex;
@@ -155,3 +148,112 @@ header a{
 /* .navbar_nav li {
     margin-left: 1rem;
 } */
+
+
+/*css page service*/
+
+.imageconsultation{
+    max-width: 100%;
+   
+}
+
+.image_obstetrique{
+    max-width: 100%;
+}
+.image_pediatrie{
+    max-width: 100%;
+    
+}
+
+.image_dermatologie{
+    max-width: 100%;
+    
+}
+
+.Image_orthopedie{
+    max-width: 100%;
+    
+}
+
+.image_cardiologie{
+    max-width: 100%;
+}
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(40, 152, 196);
+}
+.trois_premieres_sections{
+    display: flex;
+    justify-content: space-between;
+}
+.trois_dernieres_classes{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.sectionconsultation{
+    flex-basis: 30%;
+    
+}
+
+.sectionconsultation p{
+    text-align: justify;
+}
+
+.sectiongynecologie{
+    flex-basis: 30%;
+    text-align: justify;
+}
+
+.sectionpediatrie{
+    flex-basis: 30% ;
+    text-align: justify;
+}
+
+.sectiondermatologie{
+    flex-basis: 30% ;
+    text-align: justify;
+}
+.sectionorthopedie{
+    flex-basis: 30%;
+    text-align: justify;
+}
+
+.sectioncardiologie{
+    flex-basis: 30%;
+    text-align: justify;
+}
+.sectionfin {
+    text-align: center;
+    color:rgb(40, 152, 196);
+    text-transform: uppercase;
+    font-size: 25px;
+    
+}
+.sectionfin1 {
+    text-align: center;
+    color: rgb(40, 152, 196);
+    text-transform: uppercase;
+    font-size: 25px;
+    
+}
+.sectionfin2 {
+    text-align: center;
+    color:rgb(40, 152, 196);
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.footerservice{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    width: 100%;
+    
+    
+}
+.footerservice ul {
+    margin-top: 20px;
+}
