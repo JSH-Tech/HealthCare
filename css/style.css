@@ -36,15 +36,15 @@ nav{
     max-width: 100%;
     height: auto;
 }
-/*h1{    // ça impacte on h1, si tu veux viser un h1 bien précis, je te conseille d'utiliser un id ou une classe
+.premier{
     position: absolute;
     font-size: 6rem;
     text-transform: uppercase;
     color: black;
     margin-top: 15%;
     text-align: center;
-}*/
-main{
+}
+.lemain{
     position: relative;
 }
 
@@ -56,7 +56,7 @@ main{
     background-color:rgb(40, 152, 196) ;
 }
 .textedebienvenu{
-    text-align: center;
+    text-align: justify;
     font-size: 1em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -75,15 +75,6 @@ footer ul li a{
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
-
-/*footer{
-    background-color: rgb(40, 152, 196);
-    justify-content: space-between;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}*/
-
 footer ul{
     display: flex;
     list-style: none;
@@ -91,6 +82,14 @@ footer ul{
     padding: 0;
 }
 
+.footeracceuil{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+.footeracceuil{
+ margin-top: 15px;
+}
 /* .carousel {
     position: relative;
     width: 80%;
