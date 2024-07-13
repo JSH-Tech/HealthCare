@@ -30,8 +30,6 @@ nav{
     border-radius: 5px;
 }
 
-
-
 .banderol{
     max-width: 100%;
     height: auto;
@@ -91,75 +89,7 @@ footer ul{
 .footeracceuil{
  margin-top: 15px;
 }
-/* .carousel {
-    position: relative;
-    width: 80%;
-    max-width: 800px;
-    margin: 50px auto;
-    overflow: hidden;
-    border: 2px solid #ddd;
-    border-radius: 10px;
-}
 
-.carousel-inner {
-    display: flex;
-    transition: transform 0.5s ease-in-out;
-}
-
-.carousel-item {
-    min-width: 100%;
-    transition: opacity 1s ease-in-out;
-}
-
-.carousel-item img {
-    display: block;
-    width: 100%;
-    border-radius: 10px;
-}
-
-.carousel-controls {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    transform: translateY(-50%);
-}
-
-.carousel-controls button {
-    background-color: rgba(0, 0, 0, 0.5);
-    border: none;
-    color: white;
-    padding: 10px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-.carousel-controls button:hover {
-    background-color: rgba(0, 0, 0, 0.8);
-} */
-
-/* .wrapper{
-    display: flex;
-     align-items: center;
-     justify-content: center;
-} */
-/* nav{
-    display: flex;
-    
-}
-ul{
-    padding: 0;
-}
-
-header a{
-    text-decoration: none;
-    text-transform: capitalize;
-} */
-
-/* .navbar_nav li {
-    margin-left: 1rem;
-} */
 
 /*css page service*/
 
@@ -387,4 +317,3 @@ main li p{
     text-align: center;
     
 }
-
